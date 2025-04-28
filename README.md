@@ -1,0 +1,1 @@
+# cs550-lab-3--resolution-for-first-order-logic-solved
